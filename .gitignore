@@ -1,1 +1,7 @@
 .env/
+.vscode/
+.Rproj.user
+*.Rproj
+
+#geodata
+data/pam/output/cafe/pam_geo_ufs

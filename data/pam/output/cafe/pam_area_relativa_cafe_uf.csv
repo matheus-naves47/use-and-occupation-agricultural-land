@@ -1,0 +1,953 @@
+UF;ANO;AREA_PLANTADA_PERC
+Rondônia;1988.0;17.6
+Rondônia;1989.0;20.06
+Rondônia;1990.0;25.26
+Rondônia;1991.0;22.79
+Rondônia;1992.0;18.38
+Rondônia;1993.0;17.93
+Rondônia;1994.0;16.51
+Rondônia;1995.0;18.33
+Rondônia;1996.0;25.37
+Rondônia;1997.0;23.94
+Rondônia;1998.0;22.26
+Rondônia;1999.0;31.45
+Rondônia;2000.0;33.57
+Rondônia;2001.0;41.01
+Rondônia;2002.0;38.18
+Rondônia;2003.0;35.19
+Rondônia;2004.0;30.24
+Rondônia;2005.0;27.52
+Rondônia;2006.0;27.04
+Rondônia;2007.0;27.03
+Rondônia;2008.0;26.1
+Rondônia;2009.0;24.25
+Rondônia;2010.0;24.02
+Rondônia;2011.0;20.79
+Rondônia;2012.0;19.43
+Rondônia;2013.0;16.83
+Rondônia;2014.0;14.92
+Rondônia;2015.0;13.03
+Rondônia;2016.0;13.96
+Rondônia;2017.0;10.45
+Rondônia;2018.0;9.86
+Rondônia;2019.0;8.34
+Rondônia;2020.0;8.87
+Rondônia;2021.0;7.43
+Acre;1988.0;0.85
+Acre;1989.0;0.82
+Acre;1990.0;0.93
+Acre;1991.0;0.71
+Acre;1992.0;0.75
+Acre;1993.0;0.71
+Acre;1994.0;0.67
+Acre;1995.0;0.71
+Acre;1996.0;0.43
+Acre;1997.0;0.4
+Acre;1998.0;0.38
+Acre;1999.0;0.53
+Acre;2000.0;0.88
+Acre;2001.0;2.49
+Acre;2002.0;3.63
+Acre;2003.0;4.02
+Acre;2004.0;3.47
+Acre;2005.0;2.85
+Acre;2006.0;2.12
+Acre;2007.0;1.87
+Acre;2008.0;1.28
+Acre;2009.0;0.89
+Acre;2010.0;0.99
+Acre;2011.0;0.9
+Acre;2012.0;0.87
+Acre;2013.0;0.96
+Acre;2014.0;1.11
+Acre;2015.0;1.21
+Acre;2016.0;1.37
+Acre;2017.0;1.64
+Acre;2018.0;1.4
+Acre;2019.0;1.47
+Acre;2020.0;1.28
+Acre;2021.0;1.27
+Amazonas;1988.0;0.15
+Amazonas;1989.0;0.16
+Amazonas;1990.0;0.35
+Amazonas;1991.0;1.67
+Amazonas;1992.0;1.58
+Amazonas;1993.0;1.34
+Amazonas;1994.0;1.12
+Amazonas;1995.0;1.1
+Amazonas;1996.0;0.23
+Amazonas;1997.0;0.23
+Amazonas;1998.0;0.21
+Amazonas;1999.0;0.19
+Amazonas;2000.0;0.2
+Amazonas;2001.0;0.21
+Amazonas;2002.0;0.2
+Amazonas;2003.0;1.94
+Amazonas;2004.0;2.27
+Amazonas;2005.0;2.61
+Amazonas;2006.0;2.64
+Amazonas;2007.0;0.9
+Amazonas;2008.0;3.05
+Amazonas;2009.0;3.09
+Amazonas;2010.0;1.38
+Amazonas;2011.0;1.03
+Amazonas;2012.0;0.96
+Amazonas;2013.0;0.93
+Amazonas;2014.0;0.27
+Amazonas;2015.0;1.14
+Amazonas;2016.0;0.33
+Amazonas;2017.0;0.29
+Amazonas;2018.0;0.21
+Amazonas;2019.0;0.18
+Amazonas;2020.0;0.21
+Amazonas;2021.0;0.24
+Roraima;1988.0;-
+Roraima;1989.0;-
+Roraima;1990.0;-
+Roraima;1991.0;-
+Roraima;1992.0;-
+Roraima;1993.0;...
+Roraima;1994.0;-
+Roraima;1995.0;-
+Roraima;1996.0;-
+Roraima;1997.0;-
+Roraima;1998.0;-
+Roraima;1999.0;-
+Roraima;2000.0;-
+Roraima;2001.0;-
+Roraima;2002.0;-
+Roraima;2003.0;-
+Roraima;2004.0;-
+Roraima;2005.0;-
+Roraima;2006.0;-
+Roraima;2007.0;-
+Roraima;2008.0;-
+Roraima;2009.0;-
+Roraima;2010.0;-
+Roraima;2011.0;-
+Roraima;2012.0;-
+Roraima;2013.0;-
+Roraima;2014.0;-
+Roraima;2015.0;-
+Roraima;2016.0;-
+Roraima;2017.0;-
+Roraima;2018.0;-
+Roraima;2019.0;-
+Roraima;2020.0;-
+Roraima;2021.0;-
+Pará;1988.0;0.63
+Pará;1989.0;1.49
+Pará;1990.0;2.51
+Pará;1991.0;2.13
+Pará;1992.0;1.92
+Pará;1993.0;1.81
+Pará;1994.0;1.5
+Pará;1995.0;1.27
+Pará;1996.0;1.12
+Pará;1997.0;1.18
+Pará;1998.0;1.19
+Pará;1999.0;1.08
+Pará;2000.0;1.31
+Pará;2001.0;1.9
+Pará;2002.0;2.05
+Pará;2003.0;1.85
+Pará;2004.0;1.84
+Pará;2005.0;1.71
+Pará;2006.0;1.8
+Pará;2007.0;1.37
+Pará;2008.0;1.33
+Pará;2009.0;1.12
+Pará;2010.0;1.07
+Pará;2011.0;1
+Pará;2012.0;0.95
+Pará;2013.0;0.55
+Pará;2014.0;0.35
+Pará;2015.0;0.08
+Pará;2016.0;0.03
+Pará;2017.0;0.03
+Pará;2018.0;0.02
+Pará;2019.0;0.01
+Pará;2020.0;0.01
+Pará;2021.0;0.01
+Amapá;1988.0;-
+Amapá;1989.0;-
+Amapá;1990.0;-
+Amapá;1991.0;-
+Amapá;1992.0;-
+Amapá;1993.0;-
+Amapá;1994.0;-
+Amapá;1995.0;-
+Amapá;1996.0;-
+Amapá;1997.0;-
+Amapá;1998.0;-
+Amapá;1999.0;-
+Amapá;2000.0;-
+Amapá;2001.0;-
+Amapá;2002.0;-
+Amapá;2003.0;-
+Amapá;2004.0;-
+Amapá;2005.0;-
+Amapá;2006.0;-
+Amapá;2007.0;-
+Amapá;2008.0;-
+Amapá;2009.0;-
+Amapá;2010.0;-
+Amapá;2011.0;-
+Amapá;2012.0;-
+Amapá;2013.0;-
+Amapá;2014.0;-
+Amapá;2015.0;-
+Amapá;2016.0;-
+Amapá;2017.0;-
+Amapá;2018.0;-
+Amapá;2019.0;-
+Amapá;2020.0;-
+Amapá;2021.0;-
+Tocantins;1988.0;...
+Tocantins;1989.0;0.01
+Tocantins;1990.0;0.02
+Tocantins;1991.0;0.02
+Tocantins;1992.0;0.02
+Tocantins;1993.0;0.02
+Tocantins;1994.0;0.02
+Tocantins;1995.0;0
+Tocantins;1996.0;0
+Tocantins;1997.0;0
+Tocantins;1998.0;0
+Tocantins;1999.0;0
+Tocantins;2000.0;0
+Tocantins;2001.0;0
+Tocantins;2002.0;0.01
+Tocantins;2003.0;0.01
+Tocantins;2004.0;0.01
+Tocantins;2005.0;-
+Tocantins;2006.0;-
+Tocantins;2007.0;-
+Tocantins;2008.0;-
+Tocantins;2009.0;-
+Tocantins;2010.0;-
+Tocantins;2011.0;-
+Tocantins;2012.0;-
+Tocantins;2013.0;-
+Tocantins;2014.0;-
+Tocantins;2015.0;-
+Tocantins;2016.0;-
+Tocantins;2017.0;-
+Tocantins;2018.0;-
+Tocantins;2019.0;-
+Tocantins;2020.0;-
+Tocantins;2021.0;-
+Maranhão;1988.0;0.01
+Maranhão;1989.0;0.01
+Maranhão;1990.0;0.01
+Maranhão;1991.0;0.01
+Maranhão;1992.0;0
+Maranhão;1993.0;0
+Maranhão;1994.0;0
+Maranhão;1995.0;0
+Maranhão;1996.0;0
+Maranhão;1997.0;-
+Maranhão;1998.0;-
+Maranhão;1999.0;-
+Maranhão;2000.0;-
+Maranhão;2001.0;0
+Maranhão;2002.0;0
+Maranhão;2003.0;-
+Maranhão;2004.0;-
+Maranhão;2005.0;-
+Maranhão;2006.0;-
+Maranhão;2007.0;-
+Maranhão;2008.0;-
+Maranhão;2009.0;-
+Maranhão;2010.0;-
+Maranhão;2011.0;-
+Maranhão;2012.0;-
+Maranhão;2013.0;-
+Maranhão;2014.0;-
+Maranhão;2015.0;-
+Maranhão;2016.0;-
+Maranhão;2017.0;-
+Maranhão;2018.0;-
+Maranhão;2019.0;-
+Maranhão;2020.0;-
+Maranhão;2021.0;-
+Piauí;1988.0;0
+Piauí;1989.0;0
+Piauí;1990.0;0
+Piauí;1991.0;0
+Piauí;1992.0;0
+Piauí;1993.0;0
+Piauí;1994.0;0
+Piauí;1995.0;0
+Piauí;1996.0;0
+Piauí;1997.0;0
+Piauí;1998.0;0
+Piauí;1999.0;0
+Piauí;2000.0;0
+Piauí;2001.0;0
+Piauí;2002.0;0
+Piauí;2003.0;0
+Piauí;2004.0;-
+Piauí;2005.0;-
+Piauí;2006.0;-
+Piauí;2007.0;-
+Piauí;2008.0;-
+Piauí;2009.0;-
+Piauí;2010.0;-
+Piauí;2011.0;-
+Piauí;2012.0;-
+Piauí;2013.0;-
+Piauí;2014.0;-
+Piauí;2015.0;-
+Piauí;2016.0;-
+Piauí;2017.0;-
+Piauí;2018.0;-
+Piauí;2019.0;-
+Piauí;2020.0;-
+Piauí;2021.0;-
+Ceará;1988.0;0.46
+Ceará;1989.0;0.54
+Ceará;1990.0;0.41
+Ceará;1991.0;0.4
+Ceará;1992.0;0.4
+Ceará;1993.0;0.46
+Ceará;1994.0;0.39
+Ceará;1995.0;0.43
+Ceará;1996.0;0.55
+Ceará;1997.0;0.61
+Ceará;1998.0;0.53
+Ceará;1999.0;0.42
+Ceará;2000.0;0.38
+Ceará;2001.0;0.41
+Ceará;2002.0;0.38
+Ceará;2003.0;0.38
+Ceará;2004.0;0.4
+Ceará;2005.0;0.43
+Ceará;2006.0;0.4
+Ceará;2007.0;0.39
+Ceará;2008.0;0.37
+Ceará;2009.0;0.36
+Ceará;2010.0;0.42
+Ceará;2011.0;0.36
+Ceará;2012.0;0.43
+Ceará;2013.0;0.55
+Ceará;2014.0;0.41
+Ceará;2015.0;0.29
+Ceará;2016.0;0.24
+Ceará;2017.0;0.19
+Ceará;2018.0;0.12
+Ceará;2019.0;0.11
+Ceará;2020.0;0.1
+Ceará;2021.0;0.1
+Rio Grande do Norte;1988.0;0
+Rio Grande do Norte;1989.0;0
+Rio Grande do Norte;1990.0;0
+Rio Grande do Norte;1991.0;0
+Rio Grande do Norte;1992.0;-
+Rio Grande do Norte;1993.0;-
+Rio Grande do Norte;1994.0;-
+Rio Grande do Norte;1995.0;-
+Rio Grande do Norte;1996.0;-
+Rio Grande do Norte;1997.0;-
+Rio Grande do Norte;1998.0;-
+Rio Grande do Norte;1999.0;-
+Rio Grande do Norte;2000.0;-
+Rio Grande do Norte;2001.0;-
+Rio Grande do Norte;2002.0;-
+Rio Grande do Norte;2003.0;-
+Rio Grande do Norte;2004.0;-
+Rio Grande do Norte;2005.0;-
+Rio Grande do Norte;2006.0;-
+Rio Grande do Norte;2007.0;-
+Rio Grande do Norte;2008.0;-
+Rio Grande do Norte;2009.0;-
+Rio Grande do Norte;2010.0;-
+Rio Grande do Norte;2011.0;-
+Rio Grande do Norte;2012.0;-
+Rio Grande do Norte;2013.0;-
+Rio Grande do Norte;2014.0;-
+Rio Grande do Norte;2015.0;-
+Rio Grande do Norte;2016.0;-
+Rio Grande do Norte;2017.0;-
+Rio Grande do Norte;2018.0;-
+Rio Grande do Norte;2019.0;-
+Rio Grande do Norte;2020.0;-
+Rio Grande do Norte;2021.0;-
+Paraíba;1988.0;0.01
+Paraíba;1989.0;0.01
+Paraíba;1990.0;0.01
+Paraíba;1991.0;0.01
+Paraíba;1992.0;0
+Paraíba;1993.0;-
+Paraíba;1994.0;0
+Paraíba;1995.0;0
+Paraíba;1996.0;0.02
+Paraíba;1997.0;0.02
+Paraíba;1998.0;0.02
+Paraíba;1999.0;0.01
+Paraíba;2000.0;0
+Paraíba;2001.0;0
+Paraíba;2002.0;0
+Paraíba;2003.0;0
+Paraíba;2004.0;0
+Paraíba;2005.0;-
+Paraíba;2006.0;-
+Paraíba;2007.0;-
+Paraíba;2008.0;-
+Paraíba;2009.0;-
+Paraíba;2010.0;-
+Paraíba;2011.0;-
+Paraíba;2012.0;-
+Paraíba;2013.0;-
+Paraíba;2014.0;-
+Paraíba;2015.0;-
+Paraíba;2016.0;-
+Paraíba;2017.0;-
+Paraíba;2018.0;-
+Paraíba;2019.0;0
+Paraíba;2020.0;0
+Paraíba;2021.0;0
+Pernambuco;1988.0;1.03
+Pernambuco;1989.0;0.92
+Pernambuco;1990.0;1.1
+Pernambuco;1991.0;0.89
+Pernambuco;1992.0;0.88
+Pernambuco;1993.0;1.01
+Pernambuco;1994.0;0.68
+Pernambuco;1995.0;0.58
+Pernambuco;1996.0;0.55
+Pernambuco;1997.0;0.54
+Pernambuco;1998.0;0.77
+Pernambuco;1999.0;0.63
+Pernambuco;2000.0;0.5
+Pernambuco;2001.0;0.51
+Pernambuco;2002.0;0.46
+Pernambuco;2003.0;0.46
+Pernambuco;2004.0;0.46
+Pernambuco;2005.0;0.46
+Pernambuco;2006.0;0.46
+Pernambuco;2007.0;0.46
+Pernambuco;2008.0;0.37
+Pernambuco;2009.0;0.33
+Pernambuco;2010.0;0.35
+Pernambuco;2011.0;0.44
+Pernambuco;2012.0;0.34
+Pernambuco;2013.0;0.53
+Pernambuco;2014.0;0.33
+Pernambuco;2015.0;0.3
+Pernambuco;2016.0;0.3
+Pernambuco;2017.0;0.28
+Pernambuco;2018.0;0.27
+Pernambuco;2019.0;0.19
+Pernambuco;2020.0;0.16
+Pernambuco;2021.0;0.12
+Alagoas;1988.0;0.01
+Alagoas;1989.0;0.01
+Alagoas;1990.0;0.01
+Alagoas;1991.0;0.01
+Alagoas;1992.0;0.01
+Alagoas;1993.0;0.01
+Alagoas;1994.0;0.01
+Alagoas;1995.0;0.01
+Alagoas;1996.0;0.01
+Alagoas;1997.0;0.01
+Alagoas;1998.0;0.01
+Alagoas;1999.0;0.01
+Alagoas;2000.0;0.01
+Alagoas;2001.0;0.01
+Alagoas;2002.0;0
+Alagoas;2003.0;0
+Alagoas;2004.0;0
+Alagoas;2005.0;0
+Alagoas;2006.0;0
+Alagoas;2007.0;0
+Alagoas;2008.0;0
+Alagoas;2009.0;0
+Alagoas;2010.0;0
+Alagoas;2011.0;-
+Alagoas;2012.0;-
+Alagoas;2013.0;-
+Alagoas;2014.0;-
+Alagoas;2015.0;-
+Alagoas;2016.0;-
+Alagoas;2017.0;-
+Alagoas;2018.0;-
+Alagoas;2019.0;-
+Alagoas;2020.0;-
+Alagoas;2021.0;-
+Sergipe;1988.0;-
+Sergipe;1989.0;-
+Sergipe;1990.0;-
+Sergipe;1991.0;-
+Sergipe;1992.0;-
+Sergipe;1993.0;-
+Sergipe;1994.0;-
+Sergipe;1995.0;-
+Sergipe;1996.0;-
+Sergipe;1997.0;-
+Sergipe;1998.0;-
+Sergipe;1999.0;-
+Sergipe;2000.0;-
+Sergipe;2001.0;-
+Sergipe;2002.0;-
+Sergipe;2003.0;-
+Sergipe;2004.0;-
+Sergipe;2005.0;-
+Sergipe;2006.0;-
+Sergipe;2007.0;-
+Sergipe;2008.0;-
+Sergipe;2009.0;-
+Sergipe;2010.0;-
+Sergipe;2011.0;-
+Sergipe;2012.0;-
+Sergipe;2013.0;-
+Sergipe;2014.0;-
+Sergipe;2015.0;-
+Sergipe;2016.0;-
+Sergipe;2017.0;-
+Sergipe;2018.0;-
+Sergipe;2019.0;-
+Sergipe;2020.0;-
+Sergipe;2021.0;-
+Bahia;1988.0;3.33
+Bahia;1989.0;3.5
+Bahia;1990.0;4.03
+Bahia;1991.0;3.98
+Bahia;1992.0;3.99
+Bahia;1993.0;2.97
+Bahia;1994.0;2.6
+Bahia;1995.0;3.34
+Bahia;1996.0;2.76
+Bahia;1997.0;2.61
+Bahia;1998.0;3.04
+Bahia;1999.0;3.04
+Bahia;2000.0;3.21
+Bahia;2001.0;3.72
+Bahia;2002.0;3.56
+Bahia;2003.0;3.25
+Bahia;2004.0;3.17
+Bahia;2005.0;3.12
+Bahia;2006.0;3.17
+Bahia;2007.0;3.39
+Bahia;2008.0;3.36
+Bahia;2009.0;3.25
+Bahia;2010.0;3.24
+Bahia;2011.0;3.14
+Bahia;2012.0;3.6
+Bahia;2013.0;3.55
+Bahia;2014.0;3.3
+Bahia;2015.0;3.32
+Bahia;2016.0;3.63
+Bahia;2017.0;3.11
+Bahia;2018.0;3.04
+Bahia;2019.0;2.84
+Bahia;2020.0;2.89
+Bahia;2021.0;2.72
+Minas Gerais;1988.0;19
+Minas Gerais;1989.0;20.24
+Minas Gerais;1990.0;21.2
+Minas Gerais;1991.0;20.88
+Minas Gerais;1992.0;20.85
+Minas Gerais;1993.0;19.98
+Minas Gerais;1994.0;19.83
+Minas Gerais;1995.0;19.09
+Minas Gerais;1996.0;21.72
+Minas Gerais;1997.0;21.92
+Minas Gerais;1998.0;22.85
+Minas Gerais;1999.0;23.25
+Minas Gerais;2000.0;24.56
+Minas Gerais;2001.0;26.18
+Minas Gerais;2002.0;25.94
+Minas Gerais;2003.0;23.94
+Minas Gerais;2004.0;22.48
+Minas Gerais;2005.0;21.64
+Minas Gerais;2006.0;22.74
+Minas Gerais;2007.0;23.06
+Minas Gerais;2008.0;22.45
+Minas Gerais;2009.0;21.12
+Minas Gerais;2010.0;21.19
+Minas Gerais;2011.0;20.71
+Minas Gerais;2012.0;20.24
+Minas Gerais;2013.0;19.62
+Minas Gerais;2014.0;18.47
+Minas Gerais;2015.0;18.38
+Minas Gerais;2016.0;18.82
+Minas Gerais;2017.0;17.47
+Minas Gerais;2018.0;18.96
+Minas Gerais;2019.0;17.61
+Minas Gerais;2020.0;18.08
+Minas Gerais;2021.0;16.72
+Espírito Santo;1988.0;56.13
+Espírito Santo;1989.0;56.37
+Espírito Santo;1990.0;57.46
+Espírito Santo;1991.0;58.56
+Espírito Santo;1992.0;56.65
+Espírito Santo;1993.0;56.72
+Espírito Santo;1994.0;56.4
+Espírito Santo;1995.0;59.27
+Espírito Santo;1996.0;64.75
+Espírito Santo;1997.0;65.63
+Espírito Santo;1998.0;66.85
+Espírito Santo;1999.0;68.36
+Espírito Santo;2000.0;70.11
+Espírito Santo;2001.0;71.1
+Espírito Santo;2002.0;70.5
+Espírito Santo;2003.0;69.7
+Espírito Santo;2004.0;68.8
+Espírito Santo;2005.0;69.1
+Espírito Santo;2006.0;69.55
+Espírito Santo;2007.0;69.27
+Espírito Santo;2008.0;67.71
+Espírito Santo;2009.0;67.46
+Espírito Santo;2010.0;68.31
+Espírito Santo;2011.0;67.3
+Espírito Santo;2012.0;68
+Espírito Santo;2013.0;68.5
+Espírito Santo;2014.0;67.79
+Espírito Santo;2015.0;67.98
+Espírito Santo;2016.0;68.97
+Espírito Santo;2017.0;69.5
+Espírito Santo;2018.0;67.31
+Espírito Santo;2019.0;68.24
+Espírito Santo;2020.0;68.48
+Espírito Santo;2021.0;67.19
+Rio de Janeiro;1988.0;3.74
+Rio de Janeiro;1989.0;4.11
+Rio de Janeiro;1990.0;4.49
+Rio de Janeiro;1991.0;4.79
+Rio de Janeiro;1992.0;4.57
+Rio de Janeiro;1993.0;3.14
+Rio de Janeiro;1994.0;3.18
+Rio de Janeiro;1995.0;3.33
+Rio de Janeiro;1996.0;3.24
+Rio de Janeiro;1997.0;3.24
+Rio de Janeiro;1998.0;3.47
+Rio de Janeiro;1999.0;3.46
+Rio de Janeiro;2000.0;3.61
+Rio de Janeiro;2001.0;4.13
+Rio de Janeiro;2002.0;4.34
+Rio de Janeiro;2003.0;4.9
+Rio de Janeiro;2004.0;5.18
+Rio de Janeiro;2005.0;5.21
+Rio de Janeiro;2006.0;5.33
+Rio de Janeiro;2007.0;5.92
+Rio de Janeiro;2008.0;6.1
+Rio de Janeiro;2009.0;6.36
+Rio de Janeiro;2010.0;5.92
+Rio de Janeiro;2011.0;6.68
+Rio de Janeiro;2012.0;6.33
+Rio de Janeiro;2013.0;7.04
+Rio de Janeiro;2014.0;7.48
+Rio de Janeiro;2015.0;8.31
+Rio de Janeiro;2016.0;10.19
+Rio de Janeiro;2017.0;10.51
+Rio de Janeiro;2018.0;11.13
+Rio de Janeiro;2019.0;10.91
+Rio de Janeiro;2020.0;10.99
+Rio de Janeiro;2021.0;9.25
+Guanabara;1988.0;...
+Guanabara;1989.0;...
+Guanabara;1990.0;...
+Guanabara;1991.0;...
+Guanabara;1992.0;...
+Guanabara;1993.0;...
+Guanabara;1994.0;...
+Guanabara;1995.0;...
+Guanabara;1996.0;...
+Guanabara;1997.0;...
+Guanabara;1998.0;...
+Guanabara;1999.0;...
+Guanabara;2000.0;...
+Guanabara;2001.0;...
+Guanabara;2002.0;...
+Guanabara;2003.0;...
+Guanabara;2004.0;...
+Guanabara;2005.0;...
+Guanabara;2006.0;...
+Guanabara;2007.0;...
+Guanabara;2008.0;...
+Guanabara;2009.0;...
+Guanabara;2010.0;...
+Guanabara;2011.0;...
+Guanabara;2012.0;...
+Guanabara;2013.0;...
+Guanabara;2014.0;...
+Guanabara;2015.0;...
+Guanabara;2016.0;...
+Guanabara;2017.0;...
+Guanabara;2018.0;...
+Guanabara;2019.0;...
+Guanabara;2020.0;...
+Guanabara;2021.0;...
+São Paulo;1988.0;10.58
+São Paulo;1989.0;10.06
+São Paulo;1990.0;9.04
+São Paulo;1991.0;7.86
+São Paulo;1992.0;6.71
+São Paulo;1993.0;6.48
+São Paulo;1994.0;4.53
+São Paulo;1995.0;4.14
+São Paulo;1996.0;3.97
+São Paulo;1997.0;4.05
+São Paulo;1998.0;4.14
+São Paulo;1999.0;4.29
+São Paulo;2000.0;3.68
+São Paulo;2001.0;3.66
+São Paulo;2002.0;3.79
+São Paulo;2003.0;3.64
+São Paulo;2004.0;3.39
+São Paulo;2005.0;3.34
+São Paulo;2006.0;3.23
+São Paulo;2007.0;3.05
+São Paulo;2008.0;2.46
+São Paulo;2009.0;2.25
+São Paulo;2010.0;2.61
+São Paulo;2011.0;2.58
+São Paulo;2012.0;2.5
+São Paulo;2013.0;2.55
+São Paulo;2014.0;2.46
+São Paulo;2015.0;2.38
+São Paulo;2016.0;2.32
+São Paulo;2017.0;2.19
+São Paulo;2018.0;2.3
+São Paulo;2019.0;2.25
+São Paulo;2020.0;2.26
+São Paulo;2021.0;2.27
+Paraná;1988.0;5.85
+Paraná;1989.0;5.77
+Paraná;1990.0;5.15
+Paraná;1991.0;4.89
+Paraná;1992.0;3.6
+Paraná;1993.0;3
+Paraná;1994.0;2.53
+Paraná;1995.0;1.39
+Paraná;1996.0;1.77
+Paraná;1997.0;1.68
+Paraná;1998.0;1.66
+Paraná;1999.0;1.76
+Paraná;2000.0;1.76
+Paraná;2001.0;0.81
+Paraná;2002.0;1.5
+Paraná;2003.0;1.33
+Paraná;2004.0;1.21
+Paraná;2005.0;1.12
+Paraná;2006.0;1.08
+Paraná;2007.0;1.04
+Paraná;2008.0;0.98
+Paraná;2009.0;0.85
+Paraná;2010.0;0.85
+Paraná;2011.0;0.76
+Paraná;2012.0;0.72
+Paraná;2013.0;0.62
+Paraná;2014.0;0.36
+Paraná;2015.0;0.42
+Paraná;2016.0;0.4
+Paraná;2017.0;0.38
+Paraná;2018.0;0.37
+Paraná;2019.0;0.36
+Paraná;2020.0;0.34
+Paraná;2021.0;0.3
+Santa Catarina;1988.0;0.01
+Santa Catarina;1989.0;0.01
+Santa Catarina;1990.0;0.01
+Santa Catarina;1991.0;0.01
+Santa Catarina;1992.0;0
+Santa Catarina;1993.0;0
+Santa Catarina;1994.0;0
+Santa Catarina;1995.0;0
+Santa Catarina;1996.0;0
+Santa Catarina;1997.0;0
+Santa Catarina;1998.0;0
+Santa Catarina;1999.0;0
+Santa Catarina;2000.0;0
+Santa Catarina;2001.0;0
+Santa Catarina;2002.0;-
+Santa Catarina;2003.0;-
+Santa Catarina;2004.0;-
+Santa Catarina;2005.0;-
+Santa Catarina;2006.0;-
+Santa Catarina;2007.0;-
+Santa Catarina;2008.0;-
+Santa Catarina;2009.0;-
+Santa Catarina;2010.0;-
+Santa Catarina;2011.0;-
+Santa Catarina;2012.0;-
+Santa Catarina;2013.0;-
+Santa Catarina;2014.0;-
+Santa Catarina;2015.0;-
+Santa Catarina;2016.0;-
+Santa Catarina;2017.0;-
+Santa Catarina;2018.0;-
+Santa Catarina;2019.0;-
+Santa Catarina;2020.0;-
+Santa Catarina;2021.0;-
+Rio Grande do Sul;1988.0;-
+Rio Grande do Sul;1989.0;-
+Rio Grande do Sul;1990.0;-
+Rio Grande do Sul;1991.0;-
+Rio Grande do Sul;1992.0;-
+Rio Grande do Sul;1993.0;-
+Rio Grande do Sul;1994.0;-
+Rio Grande do Sul;1995.0;-
+Rio Grande do Sul;1996.0;-
+Rio Grande do Sul;1997.0;-
+Rio Grande do Sul;1998.0;-
+Rio Grande do Sul;1999.0;-
+Rio Grande do Sul;2000.0;-
+Rio Grande do Sul;2001.0;-
+Rio Grande do Sul;2002.0;-
+Rio Grande do Sul;2003.0;-
+Rio Grande do Sul;2004.0;-
+Rio Grande do Sul;2005.0;-
+Rio Grande do Sul;2006.0;-
+Rio Grande do Sul;2007.0;-
+Rio Grande do Sul;2008.0;-
+Rio Grande do Sul;2009.0;-
+Rio Grande do Sul;2010.0;-
+Rio Grande do Sul;2011.0;-
+Rio Grande do Sul;2012.0;-
+Rio Grande do Sul;2013.0;-
+Rio Grande do Sul;2014.0;-
+Rio Grande do Sul;2015.0;-
+Rio Grande do Sul;2016.0;-
+Rio Grande do Sul;2017.0;-
+Rio Grande do Sul;2018.0;-
+Rio Grande do Sul;2019.0;-
+Rio Grande do Sul;2020.0;-
+Rio Grande do Sul;2021.0;-
+Mato Grosso do Sul;1988.0;0.41
+Mato Grosso do Sul;1989.0;0.39
+Mato Grosso do Sul;1990.0;0.39
+Mato Grosso do Sul;1991.0;0.31
+Mato Grosso do Sul;1992.0;0.26
+Mato Grosso do Sul;1993.0;0.17
+Mato Grosso do Sul;1994.0;0.1
+Mato Grosso do Sul;1995.0;0.07
+Mato Grosso do Sul;1996.0;0.09
+Mato Grosso do Sul;1997.0;0.08
+Mato Grosso do Sul;1998.0;0.07
+Mato Grosso do Sul;1999.0;0.07
+Mato Grosso do Sul;2000.0;0.09
+Mato Grosso do Sul;2001.0;0.1
+Mato Grosso do Sul;2002.0;0.12
+Mato Grosso do Sul;2003.0;0.09
+Mato Grosso do Sul;2004.0;0.08
+Mato Grosso do Sul;2005.0;0.07
+Mato Grosso do Sul;2006.0;0.07
+Mato Grosso do Sul;2007.0;0.07
+Mato Grosso do Sul;2008.0;0.06
+Mato Grosso do Sul;2009.0;0.04
+Mato Grosso do Sul;2010.0;0.04
+Mato Grosso do Sul;2011.0;0.04
+Mato Grosso do Sul;2012.0;0.04
+Mato Grosso do Sul;2013.0;0.03
+Mato Grosso do Sul;2014.0;0.02
+Mato Grosso do Sul;2015.0;0.02
+Mato Grosso do Sul;2016.0;0.01
+Mato Grosso do Sul;2017.0;0.01
+Mato Grosso do Sul;2018.0;0
+Mato Grosso do Sul;2019.0;0
+Mato Grosso do Sul;2020.0;0
+Mato Grosso do Sul;2021.0;0
+Mato Grosso;1988.0;2.13
+Mato Grosso;1989.0;2.83
+Mato Grosso;1990.0;2.79
+Mato Grosso;1991.0;2.46
+Mato Grosso;1992.0;1.23
+Mato Grosso;1993.0;0.8
+Mato Grosso;1994.0;0.44
+Mato Grosso;1995.0;0.46
+Mato Grosso;1996.0;0.37
+Mato Grosso;1997.0;0.49
+Mato Grosso;1998.0;0.57
+Mato Grosso;1999.0;0.73
+Mato Grosso;2000.0;0.73
+Mato Grosso;2001.0;0.87
+Mato Grosso;2002.0;0.6
+Mato Grosso;2003.0;0.52
+Mato Grosso;2004.0;0.43
+Mato Grosso;2005.0;0.33
+Mato Grosso;2006.0;0.2
+Mato Grosso;2007.0;0.2
+Mato Grosso;2008.0;0.24
+Mato Grosso;2009.0;0.27
+Mato Grosso;2010.0;0.16
+Mato Grosso;2011.0;0.2
+Mato Grosso;2012.0;0.19
+Mato Grosso;2013.0;0.16
+Mato Grosso;2014.0;0.15
+Mato Grosso;2015.0;0.14
+Mato Grosso;2016.0;0.11
+Mato Grosso;2017.0;0.1
+Mato Grosso;2018.0;0.1
+Mato Grosso;2019.0;0.08
+Mato Grosso;2020.0;0.07
+Mato Grosso;2021.0;0.06
+Goiás;1988.0;0.55
+Goiás;1989.0;0.61
+Goiás;1990.0;0.67
+Goiás;1991.0;0.72
+Goiás;1992.0;0.57
+Goiás;1993.0;0.5
+Goiás;1994.0;0.28
+Goiás;1995.0;0.27
+Goiás;1996.0;0.16
+Goiás;1997.0;0.14
+Goiás;1998.0;0.15
+Goiás;1999.0;0.15
+Goiás;2000.0;0.14
+Goiás;2001.0;0.18
+Goiás;2002.0;0.26
+Goiás;2003.0;0.19
+Goiás;2004.0;0.18
+Goiás;2005.0;0.17
+Goiás;2006.0;0.2
+Goiás;2007.0;0.2
+Goiás;2008.0;0.2
+Goiás;2009.0;0.2
+Goiás;2010.0;0.22
+Goiás;2011.0;0.18
+Goiás;2012.0;0.16
+Goiás;2013.0;0.11
+Goiás;2014.0;0.09
+Goiás;2015.0;0.11
+Goiás;2016.0;0.11
+Goiás;2017.0;0.09
+Goiás;2018.0;0.13
+Goiás;2019.0;0.12
+Goiás;2020.0;0.11
+Goiás;2021.0;0.09
+Distrito Federal;1988.0;1.42
+Distrito Federal;1989.0;1.31
+Distrito Federal;1990.0;1.34
+Distrito Federal;1991.0;1.35
+Distrito Federal;1992.0;1.36
+Distrito Federal;1993.0;1.27
+Distrito Federal;1994.0;1
+Distrito Federal;1995.0;0.98
+Distrito Federal;1996.0;1.08
+Distrito Federal;1997.0;1.01
+Distrito Federal;1998.0;1.13
+Distrito Federal;1999.0;0.75
+Distrito Federal;2000.0;0.62
+Distrito Federal;2001.0;0.88
+Distrito Federal;2002.0;0.97
+Distrito Federal;2003.0;0.81
+Distrito Federal;2004.0;0.82
+Distrito Federal;2005.0;0.75
+Distrito Federal;2006.0;0.76
+Distrito Federal;2007.0;0.76
+Distrito Federal;2008.0;0.72
+Distrito Federal;2009.0;0.74
+Distrito Federal;2010.0;0.84
+Distrito Federal;2011.0;0.61
+Distrito Federal;2012.0;0.52
+Distrito Federal;2013.0;0.4
+Distrito Federal;2014.0;0.33
+Distrito Federal;2015.0;0.44
+Distrito Federal;2016.0;0.28
+Distrito Federal;2017.0;0.32
+Distrito Federal;2018.0;0.31
+Distrito Federal;2019.0;0.25
+Distrito Federal;2020.0;0.24
+Distrito Federal;2021.0;0.25
