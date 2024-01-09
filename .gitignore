@@ -2,6 +2,13 @@
 .vscode/
 .Rproj.user
 *.Rproj
+*.Rhistory
 
-#geodata
+# geodata
 data/pam/output/cafe/pam_geo_ufs
+
+# raw climate grids (BR-DWGD)
+data/climate_grids/BR-DWGD/raw_data
+
+# plots
+images/visualizations/
