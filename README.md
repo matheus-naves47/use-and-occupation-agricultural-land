@@ -1,1 +1,17 @@
-Uso e Ocupação dos Solos Agrícolas
+# Uso e Ocupação dos Solos Agrícolas
+
+Fonte do projeto **Uso e Ocupação dos Solos Agrícolas**, desenvolvido sob orientação da Dra. Priscila Pereira Coltri, no Centro de Pesquisas Meteorológicas Aplicadas à Agricultura (CEPAGRI) na Universidade Estadual de Campinas (UNICAMP).
+
+## Resumo do Projeto
+
+Uma importante linha de pesquisa do CEPAGRI é o monitoramento de áreas canavieiras e cafeeiras, identificando a influencia do clima e do tempo nessas culturas, e disponibilizando esses dados de uma forma simplificada para a sociedade. Para tanto é necessário a identificação e o monitoramento das áreas de interesse, levando em conta os motivos que impulsionam a substituição do uso e ocupação do solo para essas culturas em questão. Nesse contexto, as geotecnologias e a análise de dados vêm ganhando destaque nas últimas décadas auxiliando a identificação e o monitoramento do uso e ocupação do solo. O objetivo do projeto é identificar quais os principais fatores que impulsionaram a mudança do uso e ocupação do solo agrícola, principalmente relacionado às culturas do café e cana. O projeto está inserido em outros dois grandes projetos aprovados pela FAPESP e pelo CNPQ. Pela FAPESP, o projeto faz parte do **BI0S** (Centro de Inteligencia artificial Aplicada - *Brazilian Institute of Data Science*) e, pelo CNPQ, faz parte do **Coffee Change: uma análise integrada dos riscos, desafios e oportunidades da Cafeicultura frente às Mudanças Climáticas**.
+
+## Atividades Desenvolvidas
+
+O projeto foi dividido em dois subprojetos: Coffee Project e Land Usage Project.
+
+No <i>**Land Usage Project**</i>, foi realizada uma análise da distribuição de área plantada de café no Brasil, por estado e posteriormente pelas áreas de origem. Para essa análise, foram utilizados os dados da [Produção Agrícola Municipal (PAM)](https://sidra.ibge.gov.br/pesquisa/pam/tabelas), proveniente do Instituto Brasileiro de Geografia e Estatística (IBGE). Por meio dessa análise, obteve-se uma caracterização do cenário de mudança de área plantada de café - em especial em comparação com o avanço da cana-de-açúcar no país - por meio de mapas interativos produzidos utilizando a biblioteca *leaflet* na linguagem R.
+
+No <i>**Coffee Project**</i>, foi realizada uma análise climatológica das áreas de origem de café, utilizando o modelo climático em grade [Brazilian Daily Weather Gridded Data (BR-DWGD)](https://github.com/AlexandreCandidoXavier/BR-DWGD), de Xavier et al. Os dados foram extraídos para as regiões de interesse, e realizados os testes de Mann-Kendall e Pettitt, afim de verificar tendências nas séries temporais das variáveis climáticas estudadas (temperatura mínima, máxima e precipitação).
+
+Esse projeto foi desenvolvido na modalidade Bolsa Auxílio Social (BAS) da UNICAMP, e a linha de pesquisa continua sendo desenvolvida como Iniciação Científica pelo CNPQ, sob o nome **Cenários Futuros de Mudanças Climáticas em Regiões de Cafés Especiais no Brasil**. Neste projeto, a pesquisa é estendida ao se utilizar modelos de previsão climática do **Coupled Model Intercomparison Project Phase 6** (CMIP6), afim de caracterizar os cenários climáticos futuros para as áreas produtoras de cafés especiais. Tal projeto se encontra em outro repositório, mantido privado no momento.
